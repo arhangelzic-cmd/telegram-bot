@@ -16,9 +16,9 @@ from aiogram.types import (
 # НАСТРОЙКИ
 # =========================
 
-BOT_TOKEN = "8932004244:AAHx_cDOsEQ_5j2sgqp4zryLL6IQEnt28H0"
+BOT_TOKEN = "ВАШ ТОКЕН"
 # ВСТАВЬ СВОЙ TELEGRAM ID
-ADMIN_ID = 1924537108
+ADMIN_ID = ВАШ ID
 
 
 bot = Bot(token=BOT_TOKEN)
